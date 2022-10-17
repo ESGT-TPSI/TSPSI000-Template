@@ -1,0 +1,4 @@
+DIR=Diapositivos
+DST=dist
+FORMAT=pdf
+RELEASE_VERSION=2022.10.03
